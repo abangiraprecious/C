@@ -1,1 +1,1 @@
-*What I've learned from the BroCodez YouTube Channel*
+*Everything I learned from the BroCodez YouTube Channel*
