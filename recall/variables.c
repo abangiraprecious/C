@@ -2,7 +2,7 @@
 
 int main() {
     int age = 30;
-    printf("Hello, I am %d years old", age);
+    printf("Hello, I am %d years old\n", age);
 
     int score = 95;
 
