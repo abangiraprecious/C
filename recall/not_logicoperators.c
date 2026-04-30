@@ -8,7 +8,7 @@ int main() {
     printf("How old are you: ");
     scanf("%d", &age);
 
-    if (!(age >= 18 || age < 60)) {
+    if (!(age >= 18)) {
         printf("Child\n");
     }
 
