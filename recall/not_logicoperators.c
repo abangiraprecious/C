@@ -1,4 +1,5 @@
 //NOT ! - reverses a condition
+// (! (command))
 #include <stdio.h>
 
 int main() {
