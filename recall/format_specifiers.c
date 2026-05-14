@@ -12,7 +12,7 @@ int main () {
     printf("The is float number is %.2f \n", cost);
     printf("The is double number is %.20lf \n", pi);
     printf("The char is %c \n", punctuation);
-    printf("The array/string is %s \n",array_name);
+    printf("The array/string is %s \n", array_name);
 
  
     return 0;
